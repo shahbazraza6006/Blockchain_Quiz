@@ -25,5 +25,5 @@ func main() {
 	NewBlock()
 	ModifyBlock()
 
-	fmt.Println("Program executed successfully.")
+	fmt.Println("Program executed successfully:) Full marks in Quiz Yayyy!!!")
 }
